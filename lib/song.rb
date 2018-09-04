@@ -66,3 +66,4 @@ class Song
   return artist_hash
 end
 
+end
